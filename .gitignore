@@ -45,3 +45,4 @@ report/*.toc
 # 7. Local logs or scratch files
 *.log
 scratch/
+*.zip
